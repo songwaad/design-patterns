@@ -1,4 +1,4 @@
-# Design Patterns
+# 🚀 Design Patterns
 
 Design Patterns are reusable solutions to common software design problems. They help make code more maintainable, reusable, and scalable. In this repository, the patterns are grouped under three main categories:
 
