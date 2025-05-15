@@ -27,16 +27,16 @@ Patterns that help organize classes and objects.
 ## Behavioral Patterns
 Patterns for communication between objects.
 
-- [Chain of Responsibility](/behavioral/adapter/)
-- [Command](/behavioral/adapter/)
-- [Iterator](/behavioral/adapter/)
-- [Mediator](/behavioral/adapter/)
-- [Memento](/behavioral/adapter/)
-- [Observer](/behavioral/adapter/)
-- [State](/behavioral/adapter/)
-- [Strategy](/behavioral/adapter/)
-- [Template Method](/behavioral/adapter/)
-- [Visitor](/behavioral/adapter/)
+- [Chain of Responsibility](/behavioral/chain-of-responsibility/)
+- [Command](/behavioral/command/)
+- [Iterator](/behavioral/iterator/)
+- [Mediator](/behavioral/mediator/)
+- [Memento](/behavioral/memento/)
+- [Observer](/behavioral/observer/)
+- [State](/behavioral/state/)
+- [Strategy](/behavioral/strategy/)
+- [Template Method](/behavioral/template-method/)
+- [Visitor](/behavioral/visitor/)
 
 ---
 
